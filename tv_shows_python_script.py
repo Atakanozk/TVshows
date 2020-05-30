@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 14:11:14 2020
 
-@author: ataka
-"""
 #Importing libraries
 import pandas as pd
 import numpy as np
