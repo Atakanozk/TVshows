@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  2 12:15:32 2020
 
+"""
 @author: ataka
 """
 import pandas as pd
